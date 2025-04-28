@@ -1,5 +1,5 @@
 # BG2EE_AI_Denoised_Areas
-Mod for Baldur's Gate 2 EE that increases the quality of the game areas
+Mod for Baldur's Gate 2 EE that increases the quality of the game areas.  Updated to add EET compatibility by Endarire and hosted on GitHub with the author's consent.
 
 **!! Consider all areas without water or animations (e.g. fireplaces, doors, flags) as 100% done.**
 **Expect some visible tile edges at some places in areas with water or animations (e.g. fireplaces, doors, flags).
