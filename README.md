@@ -1,4 +1,4 @@
-# BG2EE_AI_Denoised_Areas
+# BG2EE AI Denoised Areas
 Mod for Baldur's Gate 2 EE that increases the quality of the game areas.  Updated to add EET compatibility by Endarire and hosted on GitHub with the author's consent.
 
 **!! Consider all areas without water or animations (e.g. fireplaces, doors, flags) as 100% done.**
